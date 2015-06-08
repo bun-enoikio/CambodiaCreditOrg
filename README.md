@@ -1,6 +1,9 @@
 # CambodiaCreditOrg
 about Cambodia Credit Org project
 How to install project
+Download by using the following cmd:
+
+git clone https://github.com/lbunrith-gmail/CambodiaCreditOrg.git
 
 in httpd-vhosts.conf add the following
 
